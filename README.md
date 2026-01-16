@@ -3,7 +3,9 @@ Data Analysis for behavioral and eye movement data  for an experiment to underst
 The code requires the raw data that can be found here: https://osf.io/e39hp
 
 The main functions to analyze the data are: 
+
 'Main_Percept' --> This analyses the judgment data
+
 'Main_Intercept' --> This analyses the eye tracking data for the main experiment
 
 These scripts will perform the main analyses and will reproduce all Figures and Analyses shown in the manuscript.
